@@ -48,9 +48,9 @@ simple html form
 		<tr>
 			<td>Year & Department:</td>
 			<td>
-				<input type="radio" name="year">First year
-				<input type="radio" name="year">Second year
-				<input type="radio" name="year">Third year<br>
+				<input class="btn type="radio" name="year">First year
+				<input class="btn type="radio" name="year">Second year
+				<input class="btn type="radio" name="year">Third year<br>
 				
 				<input type="radio" name="dep">Computer
 				<input type="radio" name="dep">Mechanical
